@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='main'/>
+        <page name='SocksMerchant'/>
+        <page name='Counting Valleys'/>
+        <page name='JumpingOnTheClouds'/>
+        <page name='Repeated String'/>
+        <page name='2DArray-DS'/>
+        <page name='Arrays-LeftRotation'/>
+        <page name='NewYearChaos'/>
+    </pages>
+</playground>
